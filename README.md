@@ -1,4 +1,4 @@
-some changes again
+here some troubles coming
 
 # npm readme file 
 
