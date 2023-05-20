@@ -1,3 +1,5 @@
+some changes again
+here some troubles coming
 i hope this is not a problem
 
 # npm readme file 
