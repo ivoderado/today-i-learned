@@ -1,6 +1,4 @@
-some changes again
-here some troubles coming
-i hope this is not a problem
+clean it up
 
 # npm readme file 
 
