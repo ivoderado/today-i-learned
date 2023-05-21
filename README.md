@@ -1,5 +1,3 @@
-clean it up
-
 # npm readme file 
 
 # Getting Started with Create React App
