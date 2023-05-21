@@ -15,8 +15,6 @@
 /public
 /v1
 
-# all package files
-package*
 
 # misc
 .DS_Store
